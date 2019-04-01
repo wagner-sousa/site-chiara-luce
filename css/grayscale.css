@@ -218,7 +218,7 @@
           url("../img/bg-contact.jpg");*/
      
      
-         background-image: url("../img/contact.jpg");
+         background-image: image("../img/contact.jpg");
      
      /*background-repeat: no-repeat;
      background-attachment: scroll;
